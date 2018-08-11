@@ -13,8 +13,8 @@
     & > svg {
       margin-right: .8rem;
       vertical-align: middle;
-      width: map-get($base, font-size-h2) * 1.6;
-      height: map-get($base, font-size-h2) * 1.6;
+      width: map-get($base, font-size-h2) * 2;
+      height: map-get($base, font-size-h2) * 2;
       @include media-breakpoint-down(md) {
         margin-right: .5rem;
         width: map-get($base, font-size-h4) * 1.2;
