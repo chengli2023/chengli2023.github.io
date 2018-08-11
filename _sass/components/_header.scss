@@ -11,15 +11,7 @@
     @include align-items(center);
     height: map-get($layout, header-height);
     & > svg {
-      margin-right: .8rem;
-      vertical-align: middle;
-      width: map-get($base, font-size-h4) * 1.6;
-      height: map-get($base, font-size-h4) * 1.6;
-      @include media-breakpoint-down(md) {
-        margin-right: .5rem;
-        width: map-get($base, font-size-h4) * 1.2;
-        height: map-get($base, font-size-h4) * 1.2;
-      }
+      background: url('/assets/images/logo/logo.png')
     }
     & > a {
       display: inline-block;
