@@ -8,4 +8,4 @@ description: Spring Boot 定时器
 <!--more-->
 Spring Boot 定时器
 
-![配图一张](/assets/images/posts/746884-20170623101436741-424557581.png)
+![配图一张](/assets/posts/746884-20170623101436741-424557581.png)
